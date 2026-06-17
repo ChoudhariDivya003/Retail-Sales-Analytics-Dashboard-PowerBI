@@ -1,15 +1,17 @@
 # Retail Store Sales Analysis Dashboard 📊
 
 
-## Project Overview
+##  Project Overview
 
-This project focuses on analyzing retail store sales data and converting raw transactional data into meaningful business insights using Data Analytics techniques.
+This project focuses on designing and analyzing retail store sales data by creating a structured database and transforming business data into meaningful insights.
 
-The dashboard helps businesses understand sales performance, profit trends, customer behavior, product performance, and store-level analysis.
+The project follows an end-to-end Data Analytics workflow where retail data was structured, stored in MySQL, connected with Power BI, and visualized through interactive dashboards.
+
+The dashboard helps businesses analyze sales performance, profit trends, customer behavior, product performance, and store-level insights.
 
 This project was completed and presented at QSpiders Deccan, Pune under the guidance of:
 
-- Shankar Shinde Sir
+- Shankar Sindhe Sir
 - Prabhu Gouda Sir
 
 
