@@ -39,44 +39,51 @@ This project was completed and presented at QSpiders Deccan, Pune under the guid
 
 
 ---
-
 ## 🔄 Project Workflow
 
 
-Dataset Creation
+Data Structuring & Preparation
 
 ⬇️
 
-MySQL Database Creation
+Database Design & Creation using MySQL
 
 ⬇️
 
-Data Cleaning & Transformation
+Data Storage & Management
 
 ⬇️
 
-Power BI Connection
+Power BI Database Connection
 
 ⬇️
 
-Dashboard Development
+Data Transformation
 
+⬇️
 
+Interactive Dashboard Development
+
+⬇️
+
+Business Insights Generation
 ---
 
-## 📂 Dataset Details
+## 🗄 Database Details
 
-The dataset contains retail transaction records including:
+Designed and created a retail sales database containing structured business information including:
 
 - Products
-- Categories
+- Product Categories
 - Customers
-- Stores
-- Cities
-- Sales Amount
-- Profit
-- Quantity
-- Payment Modes
+- Store Details
+- City Information
+- Sales Transactions
+- Quantity Details
+- Profit Records
+- Payment Information
+
+The structured data was stored and managed using MySQL before connecting with Power BI for visualization.
 
 
 ---
@@ -138,14 +145,16 @@ The dataset contains retail transaction records including:
 
 ---
 
-##  Learning Outcomes
+## 🎯 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
-- Data Cleaning
-- Database Management
-- Data Analysis
-- Dashboard Creation
+- Data Structuring
+- Database Creation
+- SQL Data Management
+- Database Connectivity with Power BI
+- Data Transformation
+- Dashboard Designing
 - Business Intelligence Reporting
 
 
